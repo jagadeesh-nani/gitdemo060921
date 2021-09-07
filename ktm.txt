@@ -2,3 +2,4 @@ This is an first demo for git n gitub with gitbash
 continueing
 i am developer two
 yes i am developer one
+its for fetch n merge demo
