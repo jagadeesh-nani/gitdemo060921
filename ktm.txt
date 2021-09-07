@@ -9,4 +9,3 @@ mahendras demo for reset and revert
 next for hard reset
 this is for revert
 next for hard reset
-for revrt 
