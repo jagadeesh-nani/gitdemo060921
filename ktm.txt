@@ -4,3 +4,4 @@ i am developer two
 yes i am developer one
 its for fetch n merge demo
 demo2 for fetch n merge
+Undoing r unstaging the commits
