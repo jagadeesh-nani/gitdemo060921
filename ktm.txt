@@ -10,3 +10,4 @@ next for hard reset
 this is for revert
 next for hard reset
 merging
+strategy
