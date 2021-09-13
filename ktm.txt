@@ -11,3 +11,4 @@ this is for revert
 next for hard reset
 merging
 strategy
+active windows
